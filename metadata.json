@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix: Sun Studio Tan",
+  "description": "A premium, high-end website for Sun Studio Tan, specializing in luxury spray tanning and professional teeth whitening in Columbus, Ohio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
